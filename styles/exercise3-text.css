@@ -1,0 +1,98 @@
+p {
+        font-family: Arial;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 5px;
+      }
+
+      .status {
+        color: #e34140;
+        font-size: 12px;
+      }
+      .product {
+        font-size: 18px;
+      }
+      .description {
+        font-size: 36px;
+      }
+      .price {
+        font-size: 16px;
+        font-weight: normal;
+        margin-bottom: 15px;
+      }
+      .buy {
+        background-color: rgb(26, 153, 208);
+        color: white;
+        border: none;
+        border-radius: 30px;
+        padding: 6px 15px;
+        font-weight: bold;
+        cursor: pointer;
+      }
+
+      .price2 {
+        font-size: 36px;
+        font-weight: normal;
+        text-align: left;
+      }
+      .span-usd {
+        font-size: 20px;
+        color: rgb(95, 95, 95);
+      }
+      .growth {
+        color: green;
+        text-align: left;
+        font-weight: normal;
+        margin-bottom: 8px;
+      }
+      .after {
+        color: rgb(95, 95, 95);
+        font-weight: normal;
+        text-align: left;
+      }
+      .span2 {
+        color: #e34140;
+      }
+
+      .title {
+        text-align: left;
+      }
+      .span-title {
+        color: rgb(95, 95, 95);
+        font-weight: normal;
+        cursor: pointer;
+      }
+      .span-title:hover {
+        text-decoration: underline;
+      }
+      .desc {
+        text-align: left;
+        font-weight: normal;
+        width: 500px;
+        margin-bottom: 12px;
+      }
+      .source {
+        text-align: left;
+        font-weight: normal;
+      }
+      .span-source {
+        color: rgb(0, 187, 255);
+        cursor: pointer;
+      }
+      .span-source:hover {
+        text-decoration: underline;
+      }
+
+      .model3 {
+        font-size: 30px;
+        font-family: Montserrat;
+      }
+      .order {
+        font-size: 15px;
+        font-family: Montserrat;
+        font-weight: normal;
+      }
+      .span-order {
+        text-decoration: underline;
+      }
