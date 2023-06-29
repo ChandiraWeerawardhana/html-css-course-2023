@@ -17,20 +17,19 @@ button {
   border-radius: 60px;
   border: none;
   cursor: pointer;
+  margin-bottom: 50px;
 }
 
 .profile-pic {
   width: 50px;
   height: 50px;
   object-fit: cover;
-  object-position: left;
   border-radius: 25px;
   vertical-align: middle;
 }
 .input-text {
   border: none;
   vertical-align: middle;
-  object-position: center;
   font-size: 20px;
 }
 .tweet-button {
@@ -38,10 +37,20 @@ button {
   padding: 7px 15px;
   font-weight: bold;
 }
+.div-tweet {
+  width: 500px;
+  height: 50px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
 
 .search-bar2 {
         padding: 5px 8px;
-        margin-top: 20px;
+        margin-top: 50px;
         width: 500px;
         border-radius: 250px ;
         box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.15);

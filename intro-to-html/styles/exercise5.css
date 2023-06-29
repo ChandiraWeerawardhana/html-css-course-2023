@@ -8,10 +8,22 @@ p {
         vertical-align: middle;
       }
 
+      
+
+      .google-div {
+        width: 500px;
+        padding-top: 10px;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        text-align: center;
+        border-color: blue;
+        border-style: solid;
+      }
       img {
         width: 200px;
-        margin-left: 100px;
         display: block;
+        margin-left: 150px;
       }
 
       .search-bar2 {
@@ -22,7 +34,18 @@ p {
         box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.15);
         border: none;
         margin-bottom: 25px;
+        font-size: 16px;
       }
+      .google-button {
+        font-family: Arial;
+        font-weight: bold;
+        font-size: 16px;
+        padding: 10px 20px;
+        border: none;
+        margin-right: 10px;
+        cursor: pointer;
+      }
+
 
       .email {
         display: block;
@@ -85,3 +108,5 @@ p {
         background-color: rgb(212, 212, 212);
         cursor: pointer;
       }
+
+      
